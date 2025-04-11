@@ -25,7 +25,7 @@ In Week 1, we cover the foundational concepts of cybersecurity and cloud computi
 - **Networking Fundamentals**: IP addresses, DNS, firewalls, ports, and protocols.
 
 ### Projects
-- **Day 1**: Research and analysis of a recent cybersecurity breach (e.g., Colonial Pipeline ransomware attack). [View Breach Analysis](Week1/Day1-Cybersecurity-Breach-Analysis/Breach-Summary.md)
+- **Day 1**: Research and analysis of a recent cybersecurity breach (e.g., Colonial Pipeline ransomware attack). [View Breach Analysis](Week-1/Day1-Cybersecurity-Breach-Analysis/Breach-Summary.md)
 - **Day 4**: Hosting a personal blog on AWS using WordPress and securing it with HTTPS. [Coming Soon]
 
 ---
